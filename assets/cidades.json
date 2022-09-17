@@ -1,0 +1,42 @@
+[
+    {
+        "cidade": "Sao Paulo",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Santo André",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Guarulhos",
+        "estado": "SP"
+    },
+    {
+        "cidade": "São Caetano",
+        "estado": "SP"
+    },
+    {
+        "cidade": "São Bernardo do Campo",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Diadema",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Ribeirão Preto",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Campinas",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Campos do Jordão",
+        "estado": "SP"
+    },
+    {
+        "cidade": "Osasco",
+        "estado": "SP"
+    }
+]
